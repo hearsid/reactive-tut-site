@@ -17,3 +17,5 @@ Rx.js
 - Operators (pipe, forkJoin)
 - unsubscribe
 
+Links:
+- http://introtorx.com/Content/v1.0.10621.0/01_WhyRx.html#WhyRx
