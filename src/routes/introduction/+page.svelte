@@ -1,1 +1,0 @@
-<h2>Introduction to Reactive Programming</h2>
